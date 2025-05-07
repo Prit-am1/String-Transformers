@@ -1,0 +1,1 @@
+In this project, once user provide any data in the input field, the data will be transformed in different types (viz. lowercase, uppercase, camelcase, pascalcase, snakecase, kebabcase and trim) in real time and displayed on the UI.
